@@ -20,6 +20,7 @@ workout_stats = {
     "Madeline": (30, 35, 25),
     "Sophia": (45, 50, 30)
 }
+
 # Step d: Calculate total workout minutes using a loop and add to dictionary
 # I loop through each friend and calculate the total of their 3 activities
 
