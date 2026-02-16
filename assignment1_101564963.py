@@ -1,7 +1,8 @@
 """
 Author: Ghazaleh AzimiKorf
 Assignment: #1
-"""
+""" 
+
 
 # Step b: Create 4 variables
 # here I created 4 different variables with different data types
